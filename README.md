@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there, I'm <span style="color:#6C63FF;">Stefanos</span></h1>
 
-<!--
-**allnrvao/allnrvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.stefanosst.gr" target="_blank">
+    <img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png" alt="Logo" style="width:200px;">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=380&lines=Shopify+Expert;Frontend+Developer;React+%7C+Next+%7C+Gatsby+Fan;AI+%7C+ML+%7C+DL+Applications;Always+learning+and+building!">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<details>
+  <summary><b>📘 About Me</b></summary>
+
+```text
+💻 Frontend Developer passionate about modern UI and user experience
+🎓 BSc in Computer Science | MSc in AI & Deep Learning
+🧠 Enthusiastic about building ML-powered user interfaces
+🛍️ Currently working with Shopify themes and Gatsby.js
+🌱 Constantly learning how to solve real problems for users
+⚡ Primary languages: JavaScript & Python
+🎯 Future focus: Full-stack Machine Learning apps
