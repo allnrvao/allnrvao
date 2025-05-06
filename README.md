@@ -4,9 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.stefanosst.gr" target="_blank">
-    <img src="https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png" alt="Logo" style="width:200px;">
-  </a>
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Cool Dev GIF" style="width:200px;">
 </p>
 
 <p align="center">
