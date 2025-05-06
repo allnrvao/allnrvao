@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://emojicdn.elk.sh/👋" width="32" style="vertical-align:middle; margin-right:10px;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle; margin-right:10px;">
   Hi there, I'm <span style="color:#6C63FF;">Allan</span>
 </h1>
 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=380&lines=Shopify+Expert;Frontend+Developer;React+%7C+Next+%7C+Gatsby+Fan;AI+%7C+ML+%7C+DL+Applications;Always+learning+and+building!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=380&lines=Always+learning">
 </p>
 
 ---
@@ -33,19 +33,15 @@
 
 ---
 
-## 💻 Programming Languages
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,cs" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with me
 
 <p align="center">
   <a href="https://www.instagram.com/allnrao?igsh=MWw5bG9peWI4b3ZkMQ==" target="_blank">
@@ -64,12 +60,5 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=StefanosSt&label=Profile%20views&color=6C63FF&style=flat" alt="profile-views">
-</p>
-
----
-
-<p align="center">
-  <i>Last updated on: 13/08/2023</i><br>
-  <a href="https://github.com/StefanosSt">StefanosSt</a>
 </p>
 
