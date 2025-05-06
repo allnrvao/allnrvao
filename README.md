@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm <span style="color:#6C63FF;">Stefanos</span></h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#6C63FF;">Allan</span></h1>
 
 <p align="center">
   <a href="https://www.stefanosst.gr" target="_blank">
@@ -16,10 +16,16 @@
   <summary><b>📘 About Me</b></summary>
 
 ```text
-💻 Frontend Developer passionate about modern UI and user experience
-🎓 BSc in Computer Science | MSc in AI & Deep Learning
-🧠 Enthusiastic about building ML-powered user interfaces
-🛍️ Currently working with Shopify themes and Gatsby.js
-🌱 Constantly learning how to solve real problems for users
-⚡ Primary languages: JavaScript & Python
-🎯 Future focus: Full-stack Machine Learning apps
+🧠 I'm Allan — curious, creative, and passionate about technology, design, and the emotions sparked by powerful ideas.
+
+👨‍💻 I'm studying Systems Engineering, where I get to blend logic, aesthetics, and meaningful user experiences.
+
+🎨 I love all things visual, artistic, and intuitive. I look for beauty and depth in every detail.
+
+🎧 Music is part of my language, Music inspires me just as much as clean code or smooth animations.
+
+🌍 I dream of building things that matter — things that speak, connect, and leave a mark.
+
+🌱 Always learning: how to write better code, understand users more deeply, or just grow without losing what makes me, me.
+
+🎯 My goal: to create soulful things — digital or not — that look great, work smoothly, and feel even better.
