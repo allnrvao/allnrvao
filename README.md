@@ -30,29 +30,28 @@
 🌱 Always learning: how to write better code, understand users more deeply, or just grow without losing what makes me, me.
 
 🎯 My goal: to create soulful things — digital or not — that look great, work smoothly, and feel even better.
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,nextjs,gatsby,react,tailwind,sass,bootstrap,mongodb,heroku,netlify,vercel,docker,npm,yarn" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,canva,tensorflow,pytorch" />
-</p>
 
 ---
 
-## 📫 Connect with me
+## 💻 Programming Languages
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/stefanos-stamoulis/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/steve.frontdev/" target="_blank">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.instagram.com/allnrao?igsh=MWw5bG9peWI4b3ZkMQ==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:sstamoulis.wd@gmail.com">
+  <a href="mailto:aracuna@uamv.edu.ni">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
