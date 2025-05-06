@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi there, I'm <span style="color:#6C63FF;">Allan</span></h1>
+<h1 align="center">
+  <img src="https://emojicdn.elk.sh/👋" width="32" style="vertical-align:middle; margin-right:10px;">
+  Hi there, I'm <span style="color:#6C63FF;">Allan</span>
+</h1>
 
 <p align="center">
   <a href="https://www.stefanosst.gr" target="_blank">
@@ -12,10 +15,8 @@
 
 ---
 
-<details>
-  <summary><b>📘 About Me</b></summary>
+## 📘 About Me
 
-```text
 🧠 I'm Allan — curious, creative, and passionate about technology, design, and the emotions sparked by powerful ideas.
 
 👨‍💻 I'm studying Systems Engineering, where I get to blend logic, aesthetics, and meaningful user experiences.
@@ -29,3 +30,47 @@
 🌱 Always learning: how to write better code, understand users more deeply, or just grow without losing what makes me, me.
 
 🎯 My goal: to create soulful things — digital or not — that look great, work smoothly, and feel even better.
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,nextjs,gatsby,react,tailwind,sass,bootstrap,mongodb,heroku,netlify,vercel,docker,npm,yarn" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,canva,tensorflow,pytorch" />
+</p>
+
+---
+
+## 📫 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/stefanos-stamoulis/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/steve.frontdev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:sstamoulis.wd@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="Activity Snake">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=StefanosSt&label=Profile%20views&color=6C63FF&style=flat" alt="profile-views">
+</p>
+
+---
+
+<p align="center">
+  <i>Last updated on: 13/08/2023</i><br>
+  <a href="https://github.com/StefanosSt">StefanosSt</a>
+</p>
+
