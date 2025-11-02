@@ -15,7 +15,7 @@
 
 ## 📘 About Me
 
-🧠 I'm Allan — curious, creative, and passionate about technology, design, and the emotions sparked by powerful ideas.
+🧠 I'm curious, creative, and passionate about technology, design, and the emotions sparked by powerful ideas.
 
 👨‍💻 I'm studying Systems Engineering.
 
