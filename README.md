@@ -17,17 +17,15 @@
 
 🧠 I'm Allan — curious, creative, and passionate about technology, design, and the emotions sparked by powerful ideas.
 
-👨‍💻 I'm studying Systems Engineering, where I get to blend logic, aesthetics, and meaningful user experiences.
+👨‍💻 I'm studying Systems Engineering.
 
 🎨 I love all things visual, artistic, and intuitive. I look for beauty and depth in every detail.
 
 🎧 Music is part of my language, Music inspires me just as much as clean code or smooth animations.
 
-🌍 I dream of building things that matter — things that speak, connect, and leave a mark.
+🌍 I dream of building things that matter, things that speak, connect, and leave a mark.
 
-🌱 Always learning: how to write better code, understand users more deeply, or just grow without losing what makes me, me.
-
-🎯 My goal: to create soulful things — digital or not — that look great, work smoothly, and feel even better.
+🎯 My goal: to create soulful things (digital or not) that look great, work smoothly, and feel even better.
 
 ---
 
